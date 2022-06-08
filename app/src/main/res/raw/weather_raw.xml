@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infos>
+    <city id="bj">
+        <temp>26</temp>
+        <weather>晴天</weather>
+        <name>北京</name>
+        <pm>98</pm>
+        <wind>3级</wind>
+    </city>
+    <city id="sh">
+        <temp>30</temp>
+        <weather>多云</weather>
+        <name>上海</name>
+        <pm>80</pm>
+        <wind>1级</wind>
+    </city>
+    <city id="gz">
+        <temp>24</temp>
+        <weather>大雨</weather>
+        <name>广州</name>
+        <pm>50</pm>
+        <wind>5级</wind>
+    </city>
+    <city id="hz">
+        <temp>12</temp>
+        <weather>多云</weather>
+        <name>杭州</name>
+        <pm>63</pm>
+        <wind>2级</wind>
+    </city>
+</infos>
